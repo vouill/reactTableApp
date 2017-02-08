@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+
+[Demo](https://vouill.github.io/reactTableApp/)
+
 This app takes a Github event stream url and displays it in a table.
 Features: 
 
